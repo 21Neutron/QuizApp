@@ -1,0 +1,19 @@
+<resources>
+    <!--All the string resources come here including Questions and title -->
+    <string name="app_name">Quiz App</string>
+    <string name="correct"><b>Overall Correctness</b> \n
+						<b>%1$d</b> OUT OF 6</string>
+    <string name="true_text">True</string>
+    <string name="false_text">False</string>
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\'s incorrect</string>
+    <string name="a">AndroidManifest.xml is a mandatory file in every Android project, containing essential information about the application.?</string>
+    <string name="b">Fragments in Android can exist independently without being hosted by an activity.?</string>
+    <string name="c">The Android Manifest file contains information about your app, such as its name, icon, and required permissions.?</string>
+    <string name="d">Services in Android are always running in the foreground?</string>
+    <string name="e">The public keyword in Java allows access to a variable or method from anywhere within the project?</string>
+    <string name="f">The ActionBar in Android provides a consistent navigation interface that is typically placed at the top of an activity\'\s window.?</string>
+    <string name="next_text">next</string>
+    <string name="prev_text">previous</string>
+
+</resources>
